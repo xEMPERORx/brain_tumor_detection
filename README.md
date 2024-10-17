@@ -57,5 +57,3 @@ This will start a web application where you can upload images and get prediction
 
 This project is licensed under the MIT License.
 
-
-Make sure to place the accuracy and loss chart images in an `images` directory within your repository for the image links to work correctly.

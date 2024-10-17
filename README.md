@@ -30,7 +30,7 @@ The ResNet50 model is a pre-trained model used for transfer learning. The top la
 
 ![Custom CNN Accuracy](images/custom_cnn_accuracy.png)
 ![Custom CNN Loss](images/custom_cnn_loss.png)
-
+![CNN Confusion Matrix](images/confusion_cnn.png)
 ### ResNet50
 
 - **Accuracy**: 93.42%
@@ -38,7 +38,7 @@ The ResNet50 model is a pre-trained model used for transfer learning. The top la
 
 ![ResNet50 Accuracy](images/resnet50_accuracy.png)
 ![ResNet50 Loss](images/resnet50_loss.png)
-
+![ResNet50 Confusion Matrix](images/confusion_resnet50.png)
 ### Conclusion
 
 The ResNet50 model outperforms the custom CNN in terms of both accuracy and loss. It is more efficient and provides better results for the brain tumor classification task.

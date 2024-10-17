@@ -40,8 +40,7 @@ The ResNet50 model is a pre-trained model used for transfer learning. The top la
 ![ResNet50 Loss](images/resnet50_loss.png)
 ![ResNet50 Confusion Matrix](images/confusion_resnet50.png)
 ### Conclusion
-
-The ResNet50 model outperforms the custom CNN in terms of both accuracy and loss. It is more efficient and provides better results for the brain tumor classification task.
+This project demonstrates the power of deep learning, particularly Convolutional Neural Networks (CNNs), in solving complex image classification problems. By leveraging a combination of pre-trained models like ResNet50 and custom convolutional layers, we successfully build a robust pipeline for training, evaluating, and deploying an image classification model. The use of transfer learning significantly reduces training time and improves model performance, especially when working with limited data.
 
 ## Usage
 
